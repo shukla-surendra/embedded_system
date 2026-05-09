@@ -13,6 +13,7 @@ Complete builds that tie together everything from earlier modules.
 | P05 — Servo Gimbal (2-axis) | PWM, MPU6050, PID | Intermediate |
 | P06 — Mini Ground Rover | Motors, ESC, RC control | Intermediate |
 | P07 — Quadcopter Flight Controller | Everything | Advanced |
+| **P08 — ESP32 Remote Control** | **NRF24L01, Joysticks, OLED, SPI, ADC** | **Intermediate** |
 
 ## Suggested Order
 
