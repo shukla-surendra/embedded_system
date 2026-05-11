@@ -22,6 +22,13 @@ Before touching any microcontroller, you need a mental model of how electricity 
 | [14 — Radar](14_radar.md) | How radar works, all types (pulsed, CW, FMCW, SAR, phased array), components, signal processing, drone modules |
 | [15 — Sonar](15_sonar.md) | How sonar works, all types (active, passive, FMCW, medical, DVL), transducers, piezo physics, ultrasonic sensors, drone use |
 | [16 — Chips and Modules Reference](16_chips_and_modules_reference.md) | Complete catalogue of common ICs and modules — MCUs, RF, motor drivers, power, sensors, displays, ADC/DAC, audio, logic |
+| [17 — GPS](17_gps.md) | How GPS works — trilateration, satellite signals, CDMA, error sources, RTK, GNSS constellations, NMEA, drone modules |
+| [18 — WiFi](18_wifi.md) | How WiFi works — OFDM, MIMO, QAM, CSMA/CA, WPA2, ESP-NOW, power modes, all 802.11 standards |
+| [19 — Bluetooth](19_bluetooth.md) | How Bluetooth works — FHSS, Classic vs BLE, GATT, BLE advertising, Bluetooth 5 long range, audio, drone use |
+| [20 — Defence-Grade Technologies](20_defence_grade_technologies.md) | MIL-SPEC standards, anti-jam comms (SINCGARS, Link 16), military GPS (M-code, CRPA), electronic warfare, AESA radar, IFF, directed energy, rad-hard ICs, counter-drone |
+| [21 — Video Signal Transfer](21_video_signal_transfer.md) | Complete video chain — analog (composite/FPV), digital interfaces (HDMI/SDI/CSI), codecs (H.264/H.265/AV1), streaming protocols (RTSP/HLS/WebRTC), wireless FPV, compression |
+| [22 — Modulation and Data Over Waves](22_modulation_and_data_over_waves.md) | How data rides a wave — AM/FM/PM, ASK/FSK/PSK/QAM, OFDM, DSSS, FHSS, LoRa CSS, MIMO, Shannon limit, FEC, all modulation techniques |
+| [23 — Hobbyist Complete Reference](23_hobbyist_complete_reference.md) | Master reference — every term, law, component, protocol, tool, skill, safety rule, debugging tip, formula, and acronym a hobbyist needs |
 
 ## Goal
 
