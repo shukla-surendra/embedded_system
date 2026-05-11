@@ -16,6 +16,12 @@ Before touching any microcontroller, you need a mental model of how electricity 
 | [08 — Diodes In Depth](08_diodes_in_depth.md) | Rectifier, Schottky, Zener, TVS, LED, flyback diode, VI curve, selection guide |
 | [09 — BJT Transistors](09_transistors_bjt.md) | NPN/PNP, hFE, saturation, base resistor design, Darlington, BJT vs MOSFET |
 | [10 — MOSFETs](10_mosfets.md) | N/P-channel, logic-level, RDS(on), PWM motor control, H-bridge, gate pull-down |
+| [11 — Amplifiers](11_amplifiers.md) | BJT, MOSFET, Op-Amp, JFET, vacuum tube — which components amplify and how |
+| [12 — Radio Signals](12_radio_signals.md) | How radio waves are generated, transmitted, and received — oscillators, modulation, LNA, mixers, antennas |
+| [13 — Electromagnetic Waves](13_electromagnetic_waves.md) | Full EM spectrum — radio, microwave, IR, visible, UV, X-ray, gamma — physics, properties, components, drone relevance |
+| [14 — Radar](14_radar.md) | How radar works, all types (pulsed, CW, FMCW, SAR, phased array), components, signal processing, drone modules |
+| [15 — Sonar](15_sonar.md) | How sonar works, all types (active, passive, FMCW, medical, DVL), transducers, piezo physics, ultrasonic sensors, drone use |
+| [16 — Chips and Modules Reference](16_chips_and_modules_reference.md) | Complete catalogue of common ICs and modules — MCUs, RF, motor drivers, power, sensors, displays, ADC/DAC, audio, logic |
 
 ## Goal
 
