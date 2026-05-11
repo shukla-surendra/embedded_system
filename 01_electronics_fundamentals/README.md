@@ -29,6 +29,18 @@ Before touching any microcontroller, you need a mental model of how electricity 
 | [21 — Video Signal Transfer](21_video_signal_transfer.md) | Complete video chain — analog (composite/FPV), digital interfaces (HDMI/SDI/CSI), codecs (H.264/H.265/AV1), streaming protocols (RTSP/HLS/WebRTC), wireless FPV, compression |
 | [22 — Modulation and Data Over Waves](22_modulation_and_data_over_waves.md) | How data rides a wave — AM/FM/PM, ASK/FSK/PSK/QAM, OFDM, DSSS, FHSS, LoRa CSS, MIMO, Shannon limit, FEC, all modulation techniques |
 | [23 — Hobbyist Complete Reference](23_hobbyist_complete_reference.md) | Master reference — every term, law, component, protocol, tool, skill, safety rule, debugging tip, formula, and acronym a hobbyist needs |
+| [24 — Radio From First Principles](24_radio_from_first_principles.md) | Overview: Marconi's path, spark gaps, crystal sets, LC resonance, regeneration, superhet — no ICs, no modules |
+| **[Radio Stages (10 practical lab guides →)](radio_stages/README.md)** | **Complete stage-by-stage build series — each stage is a full practical guide with schematics, component values, calculations, and experiments** |
+| &nbsp;&nbsp;↳ [Stage 1 — Spark and Hertz](radio_stages/stage_01_spark_and_hertz.md) | Leyden jar build, induction coil, spark = radio transmission experiment |
+| &nbsp;&nbsp;↳ [Stage 2 — Crystal Set](radio_stages/stage_02_crystal_set.md) | Full crystal set: coil winding, LC tank, germanium diode, no-battery receiver |
+| &nbsp;&nbsp;↳ [Stage 3 — LC Resonance Deep Dive](radio_stages/stage_03_lc_resonance_deep_dive.md) | Resonant frequency derived, Q factor, core materials, 3 design examples |
+| &nbsp;&nbsp;↳ [Stage 4 — Diode Detector](radio_stages/stage_04_diode_detector.md) | Envelope detection waveforms, galena cat's whisker build, Ge vs Si vs Schottky |
+| &nbsp;&nbsp;↳ [Stage 5 — First Amplifier](radio_stages/stage_05_first_amplifier_transistor.md) | Transistor bias design, gain calculation, crystal set + amp = loudspeaker output |
+| &nbsp;&nbsp;↳ [Stage 6 — Regenerative Receiver](radio_stages/stage_06_regenerative_receiver.md) | Positive feedback, tickler coil, 3 operating regions, hear stations 500+ km |
+| &nbsp;&nbsp;↳ [Stage 7 — Colpitts Oscillator](radio_stages/stage_07_colpitts_oscillator.md) | Barkhausen criterion, 1 MHz oscillator, AM voice transmitter |
+| &nbsp;&nbsp;↳ [Stage 8 — Mixer and Heterodyne](radio_stages/stage_08_mixer_and_heterodyne.md) | cos(A)×cos(B) identity, diode ring mixer, transistor mixer, image frequency |
+| &nbsp;&nbsp;↳ [Stage 9 — Complete Superheterodyne](radio_stages/stage_09_complete_superhet.md) | All 7 stages combined, alignment, AGC, full working AM radio from scratch |
+| &nbsp;&nbsp;↳ [Stage 10 — FM and Beyond](radio_stages/stage_10_fm_and_beyond.md) | FM detection, Foster-Seeley, BFO for SSB/CW, path from discrete to ICs |
 
 ## Goal
 
