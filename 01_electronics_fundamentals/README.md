@@ -30,6 +30,8 @@ Before touching any microcontroller, you need a mental model of how electricity 
 | [22 — Modulation and Data Over Waves](22_modulation_and_data_over_waves.md) | How data rides a wave — AM/FM/PM, ASK/FSK/PSK/QAM, OFDM, DSSS, FHSS, LoRa CSS, MIMO, Shannon limit, FEC, all modulation techniques |
 | [23 — Hobbyist Complete Reference](23_hobbyist_complete_reference.md) | Master reference — every term, law, component, protocol, tool, skill, safety rule, debugging tip, formula, and acronym a hobbyist needs |
 | [24 — Radio From First Principles](24_radio_from_first_principles.md) | Overview: Marconi's path, spark gaps, crystal sets, LC resonance, regeneration, superhet — no ICs, no modules |
+| [25 — Silicon & Semiconductors](25_silicon_and_semiconductors.md) | Complete theory from atoms to chips — crystal structure, energy bands, doping, PN junction, BJT, MOSFET, chip fabrication, 10 home experiments |
+| [26 — Inductors](26_inductors.md) | Complete inductor theory — magnetic fields, Faraday/Lenz laws, RL/LC circuits, transformers, buck/boost converters, flyback voltage, all types, 7 home experiments |
 | **[Radio Stages (10 practical lab guides →)](radio_stages/README.md)** | **Complete stage-by-stage build series — each stage is a full practical guide with schematics, component values, calculations, and experiments** |
 | &nbsp;&nbsp;↳ [Stage 1 — Spark and Hertz](radio_stages/stage_01_spark_and_hertz.md) | Leyden jar build, induction coil, spark = radio transmission experiment |
 | &nbsp;&nbsp;↳ [Stage 2 — Crystal Set](radio_stages/stage_02_crystal_set.md) | Full crystal set: coil winding, LC tank, germanium diode, no-battery receiver |
